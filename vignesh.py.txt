@@ -1,1 +1,2 @@
 print (" he is my frnd")
+print ("he is my 2nd frnd")
